@@ -1,3 +1,7 @@
+/*
+Funcion que me devuelva cual numero es mayor entre dos numeros
+*/
+
 function cualEsMayor(a,b) {
     return a > b ? a : b;
 }

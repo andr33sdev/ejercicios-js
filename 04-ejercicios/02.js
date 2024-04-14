@@ -1,3 +1,7 @@
+/*
+Funcion que me devuelva el nombre de la resolucion dependiendo el ancho y alto asignado
+*/
+
 function nombreResolucion(ancho, alto) {
     if (ancho >= 7638 && alto >= 4320) {
         return "8K";
