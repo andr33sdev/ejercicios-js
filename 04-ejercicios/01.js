@@ -1,5 +1,5 @@
 /*
-Funcion que me devuelva cual numero es mayor entre dos numeros
+Funcion que me devuelva cual numero es mayor entre dos numeross
 */
 
 function cualEsMayor(a,b) {
